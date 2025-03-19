@@ -1,4 +1,4 @@
-````md
+
 # 🚀 Dockerized Flask App
 
 ## 📌 Project Overview
