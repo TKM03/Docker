@@ -1,4 +1,3 @@
-
 # 🚀 Dockerized Flask App
 
 ## 📌 Project Overview
@@ -80,7 +79,5 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 For any questions or suggestions, reach out:
-- **GitHub**: [your-username](https://github.com/your-username)
-- **Email**: your-email@example.com
+- **Email**: kitmingtong147@gmail.com
 ````
-
